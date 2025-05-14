@@ -43,7 +43,7 @@ const Hero: React.FC = () => {
           <div className="md:w-1/2 mt-12 md:mt-0 flex justify-start ml-[400px]">
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden shadow-2xl transform rotate-3 hover:rotate-0 transition duration-500">
               <img 
-                src="/public/two jars.jpg" 
+                src="/two jars.jpg" 
                 alt="Delicious Sambal" 
                 className="w-full h-full object-cover"
               />
