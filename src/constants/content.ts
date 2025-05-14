@@ -12,14 +12,14 @@ export const products: Product[] = [
     name: "Sambal Gepuk",
     description: "Authentic Javanese-style crushed chili sambal with a perfect balance of heat and flavor. Made from premium chilies and spices.",
     price: "RM 14.90",
-    image: "public/ayam gepuk.jpg"
+    image: "public/ayam-gepuk.jpg"
   },
   {
     id: 2,
     name: "Sambal Penyet",
     description: "Traditional Indonesian smashed chili sauce with a rich, spicy kick. Perfect companion for your fried chicken, tempe, or rice.",
     price: "RM 14.90",
-    image: "public/ayam penyet.jpg"
+    image: "public/ayam-penyet.jpg"
   }
 ];
 
