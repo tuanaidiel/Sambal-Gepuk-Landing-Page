@@ -11,7 +11,7 @@ const Hero: React.FC = () => {
       
       <div className="container mx-auto px-4 py-24 z-10">
         <div className="flex flex-col md:flex-row items-center">
-          <div className="md:w-1/2 text-center md:text-left pl-10">
+          <div className="md:w-1/2 text-center md:text-left">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6 animate-fade-in">
               {tagline}
             </h1>
